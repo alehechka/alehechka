@@ -41,5 +41,5 @@
 
 <img align="left" alt="alehechka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alehechka&show_icons=true&hide_border=true" />
 
-[website]: https://LockerStock.org
+[website]: https://LockerStock.app
 [linkedin]: https://www.linkedin.com/in/adam-lehechka-b42b03161/
