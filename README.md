@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Entrepreneur!
 - 🔭 I’m currently working on a brand new [startup project][website]! (be warned, it's in its early stages.)
-- 🌱 I’m currently focusing on learning GoLang and DevOps through professional experience.
+- 🌱 I’m currently focusing on bolstering my React and DevOps knowledge through professional experience.
 - 🥅 2020 Goals: Complete the core development of my startup project.
 
 ### Connect with me:
