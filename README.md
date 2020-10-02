@@ -42,7 +42,7 @@
 
 
 <img align="left" width="425px" alt="alehechka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alehechka&show_icons=true&hide_border=true&count_private=true" />
-<img align="right" alt="alehechka's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehechka&count_private=true&layout=compact&langs_count=6" />
+<img align="right" alt="alehechka's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehechka&count_private=true&layout=compact&langs_count=6&hide_border=true" />
 
 
 
