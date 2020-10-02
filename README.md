@@ -39,7 +39,10 @@
 
 ---
 
-<img align="left" alt="alehechka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alehechka&show_icons=true&hide_border=true" />
+<img align="left" alt="alehechka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alehechka&show_icons=true&hide_border=true&count_private=true" />
+
+<img align="left" alt="alehechka's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehechka&count_private=true&layout=compact" />
+
 
 [website]: https://LockerStock.app
 [linkedin]: https://www.linkedin.com/in/adam-lehechka-b42b03161/
