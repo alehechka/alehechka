@@ -1,0 +1,12 @@
+{
+  "name": "alehechka",
+  "version": "0.1.0",
+  "description": "GitHub Profile",
+  "repository": "https://github.com/alehechka/alehechka.git",
+  "author": "Adam Lehechka <ajlehechka@gmail.com>",
+  "scripts": {
+    "pregit": "git add *",
+    "git": "git commit",
+    "postgit": "git push"
+  }
+}
