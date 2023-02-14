@@ -1,6 +1,6 @@
 ### Hi there, I'm Adam 👋
 
-### Languages
+### Languages and frameworks
 
 <p align="left"> 
   <a href="https://golang.org" target="_blank"> 
